@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwaj11himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwaj11himanshu" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
